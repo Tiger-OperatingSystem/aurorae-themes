@@ -20,15 +20,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0703126"
-     inkscape:cx="55.523991"
-     inkscape:cy="-15.600767"
+     inkscape:zoom="5.7562913"
+     inkscape:cx="9.3810402"
+     inkscape:cy="-2.2583986"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="1000"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -93,7 +93,7 @@
     <g
        id="active-center">
       <circle
-         style="opacity:0.06;fill:#ffffff;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="circle1182"
          cx="-19"
          cy="1110.5197"
@@ -105,13 +105,54 @@
          height="1"
          rx="0.5"
          ry="0.5"
-         style="opacity:0.65;fill:#ffffff;paint-order:stroke fill markers"
+         style="opacity:0.65;fill:#000000;paint-order:stroke fill markers"
          id="rect1598" />
+    </g>
+    <g
+       id="use1861-5"
+       transform="translate(15,506.15761)" />
+    <g
+       id="hover-inactive-center"
+       transform="translate(0,31.000047)">
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="circle8597"
+         cx="-19"
+         cy="1110.5197"
+         r="11" />
+      <rect
+         x="-23"
+         y="1110.5197"
+         width="8"
+         height="1"
+         rx="0.5"
+         ry="0.5"
+         style="opacity:1;fill:#000000;paint-order:stroke fill markers"
+         id="rect8599" />
+    </g>
+    <g
+       id="inactive-center"
+       style="opacity:0.5">
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="circle8605"
+         cx="86"
+         cy="1110.5197"
+         r="11" />
+      <rect
+         x="82"
+         y="1110.5197"
+         width="8"
+         height="1"
+         rx="0.5"
+         ry="0.5"
+         style="opacity:0.65;fill:#000000;paint-order:stroke fill markers"
+         id="rect8607" />
     </g>
     <g
        id="hover-center">
       <circle
-         style="fill:#2ba1dc;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#5b9bf8;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="circle1186"
          cx="12"
          cy="1110.5197"
@@ -127,12 +168,9 @@
          id="rect2887-3" />
     </g>
     <g
-       id="use1861-5"
-       transform="translate(15,506.15761)" />
-    <g
        id="pressed-center">
       <circle
-         style="fill:#2ba1dc;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#5b9bf8;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="circle1190"
          cx="52"
          cy="1110.5197"
@@ -152,44 +190,6 @@
          ry="0.5"
          style="fill:#fafafa;paint-order:stroke fill markers"
          id="rect2932-6" />
-    </g>
-    <g
-       id="hover-inactive-center"
-       transform="translate(0,31.000047)">
-      <circle
-         style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-         id="circle8597"
-         cx="-19"
-         cy="1110.5197"
-         r="11" />
-      <rect
-         x="-23"
-         y="1110.5197"
-         width="8"
-         height="1"
-         rx="0.5"
-         ry="0.5"
-         style="opacity:1;fill:#ffffff;paint-order:stroke fill markers"
-         id="rect8599" />
-    </g>
-    <g
-       id="inactive-center"
-       style="opacity:0.5">
-      <circle
-         style="opacity:0.06;fill:#ffffff;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-         id="circle8605"
-         cx="86"
-         cy="1110.5197"
-         r="11" />
-      <rect
-         x="82"
-         y="1110.5197"
-         width="8"
-         height="1"
-         rx="0.5"
-         ry="0.5"
-         style="opacity:0.65;fill:#ffffff;paint-order:stroke fill markers"
-         id="rect8607" />
     </g>
   </g>
 </svg>

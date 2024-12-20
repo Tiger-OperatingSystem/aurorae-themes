@@ -39,15 +39,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.3143028"
-     inkscape:cx="-49.042848"
-     inkscape:cy="-2.3765257"
+     inkscape:zoom="4.6286056"
+     inkscape:cx="36.079981"
+     inkscape:cy="35.431837"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="1000"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -104,7 +104,7 @@
     <g
        id="hover-center">
       <circle
-         style="fill:#2ba1dc;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#5b9bf8;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="circle1172"
          cx="12"
          cy="1110.5197"
@@ -134,7 +134,7 @@
     <g
        id="pressed-center">
       <circle
-         style="fill:#2ba1dc;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#5b9bf8;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="circle1176"
          cx="51"
          cy="1110.5197"

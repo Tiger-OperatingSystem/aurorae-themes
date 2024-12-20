@@ -21,14 +21,14 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="4.0703126"
-     inkscape:cx="55.523991"
-     inkscape:cy="-15.600767"
+     inkscape:cx="32.18426"
+     inkscape:cy="-15.477927"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="1000"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -111,7 +111,7 @@
     <g
        id="hover-center">
       <circle
-         style="fill:#2ba1dc;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#5b9bf8;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="circle1186"
          cx="12"
          cy="1110.5197"
@@ -132,7 +132,7 @@
     <g
        id="pressed-center">
       <circle
-         style="fill:#2ba1dc;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#5b9bf8;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="circle1190"
          cx="52"
          cy="1110.5197"

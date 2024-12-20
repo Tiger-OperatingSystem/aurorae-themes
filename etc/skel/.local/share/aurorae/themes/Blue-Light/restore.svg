@@ -20,9 +20,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4390728"
-     inkscape:cx="-111.8776"
-     inkscape:cy="-6.948919"
+     inkscape:zoom="5.7562911"
+     inkscape:cx="-14.679591"
+     inkscape:cy="13.289807"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -93,24 +93,59 @@
     <g
        id="active-center">
       <circle
-         style="opacity:0.06;fill:#ffffff;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="circle1196"
          cx="-24"
          cy="1110.5197"
          r="11" />
       <path
          d="m -25.999999,1108.5198 c -1.108,0 -2,0.892 -2,2 v 2 c 0,1.108 0.892,2 2,2 h 2 c 1.108,0 2,-0.892 2,-2 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 2 c 0.554,0 1,0.446 1,1 v 2 c 0,0.554 -0.446,1 -1,1 h -2 c -0.554,0 -1,-0.446 -1,-1 v -2 c 0,-0.554 0.446,-1 1,-1 z"
-         style="opacity:0.65;fill:#ffffff;paint-order:stroke fill markers"
+         style="opacity:0.65;fill:#000000;paint-order:stroke fill markers"
          id="path1600" />
       <path
          d="m -23.999999,1106.5198 c -1.108,0 -2,0.892 -2,2 h 1 c 0,-0.554 0.446,-1 1,-1 h 2 c 0.554,0 1,0.446 1,1 v 2 c 0,0.554 -0.446,1 -1,1 v 1 c 1.108,0 2,-0.892 2,-2 v -2 c 0,-1.108 -0.892,-2 -2,-2 z"
-         style="opacity:0.35;fill:#ffffff;paint-order:stroke fill markers"
+         style="opacity:0.35;fill:#000000;paint-order:stroke fill markers"
          id="path1602" />
+    </g>
+    <g
+       id="inactive-center"
+       style="opacity:0.5">
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="circle9079"
+         cx="86"
+         cy="1110.5197"
+         r="11" />
+      <path
+         d="m 84.000001,1108.5198 c -1.108,0 -2,0.892 -2,2 v 2 c 0,1.108 0.892,2 2,2 h 2 c 1.108,0 2,-0.892 2,-2 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 2 c 0.554,0 1,0.446 1,1 v 2 c 0,0.554 -0.446,1 -1,1 h -2 c -0.554,0 -1,-0.446 -1,-1 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+         style="opacity:0.65;fill:#000000;paint-order:stroke fill markers"
+         id="path9081" />
+      <path
+         d="m 86.000001,1106.5198 c -1.108,0 -2,0.892 -2,2 h 1 c 0,-0.554 0.446,-1 1,-1 h 2 c 0.554,0 1,0.446 1,1 v 2 c 0,0.554 -0.446,1 -1,1 v 1 c 1.108,0 2,-0.892 2,-2 v -2 c 0,-1.108 -0.892,-2 -2,-2 z"
+         style="opacity:0.35;fill:#000000;paint-order:stroke fill markers"
+         id="path9083" />
+    </g>
+    <g
+       id="hover-inactive-center">
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="circle9097"
+         cx="-24"
+         cy="1145.5197"
+         r="11" />
+      <path
+         d="m -25.999999,1143.5198 c -1.108,0 -2,0.892 -2,2 v 2 c 0,1.108 0.892,2 2,2 h 2 c 1.108,0 2,-0.892 2,-2 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 2 c 0.554,0 1,0.446 1,1 v 2 c 0,0.554 -0.446,1 -1,1 h -2 c -0.554,0 -1,-0.446 -1,-1 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+         style="opacity:1;fill:#000000;paint-order:stroke fill markers"
+         id="path9099" />
+      <path
+         d="m -23.999999,1141.5198 c -1.108,0 -2,0.892 -2,2 h 1 c 0,-0.554 0.446,-1 1,-1 h 2 c 0.554,0 1,0.446 1,1 v 2 c 0,0.554 -0.446,1 -1,1 v 1 c 1.108,0 2,-0.892 2,-2 v -2 c 0,-1.108 -0.892,-2 -2,-2 z"
+         style="opacity:0.5;fill:#000000;paint-order:stroke fill markers"
+         id="path9101" />
     </g>
     <g
        id="hover-center">
       <circle
-         style="fill:#2ba1dc;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#5b9bf8;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="circle1200"
          cx="12"
          cy="1110.5197"
@@ -127,7 +162,7 @@
     <g
        id="pressed-center">
       <circle
-         style="fill:#2ba1dc;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#5b9bf8;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="circle1204"
          cx="51"
          cy="1109.5197"
@@ -151,41 +186,6 @@
            style="opacity:0.35;fill:#fafafa;paint-order:stroke fill markers"
            id="path2936-0" />
       </g>
-    </g>
-    <g
-       id="inactive-center"
-       style="opacity:0.5">
-      <circle
-         style="opacity:0.06;fill:#ffffff;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-         id="circle9079"
-         cx="86"
-         cy="1110.5197"
-         r="11" />
-      <path
-         d="m 84.000001,1108.5198 c -1.108,0 -2,0.892 -2,2 v 2 c 0,1.108 0.892,2 2,2 h 2 c 1.108,0 2,-0.892 2,-2 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 2 c 0.554,0 1,0.446 1,1 v 2 c 0,0.554 -0.446,1 -1,1 h -2 c -0.554,0 -1,-0.446 -1,-1 v -2 c 0,-0.554 0.446,-1 1,-1 z"
-         style="opacity:0.65;fill:#ffffff;paint-order:stroke fill markers"
-         id="path9081" />
-      <path
-         d="m 86.000001,1106.5198 c -1.108,0 -2,0.892 -2,2 h 1 c 0,-0.554 0.446,-1 1,-1 h 2 c 0.554,0 1,0.446 1,1 v 2 c 0,0.554 -0.446,1 -1,1 v 1 c 1.108,0 2,-0.892 2,-2 v -2 c 0,-1.108 -0.892,-2 -2,-2 z"
-         style="opacity:0.35;fill:#ffffff;paint-order:stroke fill markers"
-         id="path9083" />
-    </g>
-    <g
-       id="hover-inactive-center">
-      <circle
-         style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-         id="circle9097"
-         cx="-24"
-         cy="1145.5197"
-         r="11" />
-      <path
-         d="m -25.999999,1143.5198 c -1.108,0 -2,0.892 -2,2 v 2 c 0,1.108 0.892,2 2,2 h 2 c 1.108,0 2,-0.892 2,-2 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 2 c 0.554,0 1,0.446 1,1 v 2 c 0,0.554 -0.446,1 -1,1 h -2 c -0.554,0 -1,-0.446 -1,-1 v -2 c 0,-0.554 0.446,-1 1,-1 z"
-         style="opacity:1;fill:#ffffff;paint-order:stroke fill markers"
-         id="path9099" />
-      <path
-         d="m -23.999999,1141.5198 c -1.108,0 -2,0.892 -2,2 h 1 c 0,-0.554 0.446,-1 1,-1 h 2 c 0.554,0 1,0.446 1,1 v 2 c 0,0.554 -0.446,1 -1,1 v 1 c 1.108,0 2,-0.892 2,-2 v -2 c 0,-1.108 -0.892,-2 -2,-2 z"
-         style="opacity:0.5;fill:#ffffff;paint-order:stroke fill markers"
-         id="path9101" />
     </g>
   </g>
 </svg>
